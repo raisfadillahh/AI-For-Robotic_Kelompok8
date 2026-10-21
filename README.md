@@ -20,18 +20,8 @@ menyalakan LED.
 
 [![Tonton Video Demo](https://drive.google.com/thumbnail?id=19MTVb-Pvqy-t6Fzr_xwGn6ziKQ6XT9tx)](https://drive.google.com/file/d/19MTVb-Pvqy-t6Fzr_xwGn6ziKQ6XT9tx/view)
 
-
-## 🏗️ Arsitektur Sistem
-
-Berikut adalah diagram alur sistem Traffic Sign Recognition pada Jetson Nano:
-
-```mermaid
-graph TD
-    A[Kamera / Sensor] -->|Input Gambar| B(Jetson Nano)
-    B -->|Proses AI| C{Model Deteksi Rambu}
-    C -->|Rambu Terdeteksi| D[Kontrol Aktuator: LED]
-    C -->|Tidak Ada Rambu| E[Lanjut / Abaikan]
-    D -->|Sinyal| F[LED Menyala]
+## Gambar Arsitektur Sistem
+<img width="1774" height="887" alt="Jetson Nano Traffic Sign Recognition System" src="https://github.com/user-attachments/assets/174f1ac5-fd26-480d-b227-a725a9523926" />
 
 ## 1. Latar Belakang dan Tujuan
 
