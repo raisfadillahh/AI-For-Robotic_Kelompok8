@@ -366,9 +366,9 @@ asli ditambahkan di `results/` setelah uji lapangan.
 | Nama | NIM |
 |------|-----|
 | Bintang Ahmad | 2023071073 |
-| Rais Fadillah | 2023071043 |
-| Muhammad dapa | 2023071036 |
-| Jehan padillah | 2023071052 |
+| Rais Fadillah Hasani | 2023071043 |
+| Muhammad Daffa | 2023071036 |
+| Jehan Fadillah | 2023071052 |
 ---
 
 Lisensi MIT.
